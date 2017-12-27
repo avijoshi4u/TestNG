@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>TestNG</name>
+=======
+	<name>Selenium</name>
+>>>>>>> f6059f0c03164fecfba28509a415ede75269eb86
 	<comment></comment>
 	<projects>
 	</projects>

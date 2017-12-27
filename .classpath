@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+>>>>>>> f6059f0c03164fecfba28509a415ede75269eb86
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="/Users/ajoshi007c/Documents/Avinash/Selenium/selenium-server-standalone-3.7.0.jar"/>
 	<classpathentry kind="lib" path="/Users/ajoshi007c/Documents/Avinash/Selenium/selenium-server-3.7.0/selenium-3.7.0-nodeps-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/ajoshi007c/Documents/Avinash/Selenium/selenium-server-3.7.0/selenium-3.7.0-nodeps.jar"/>
+=======
+>>>>>>> f6059f0c03164fecfba28509a415ede75269eb86
 	<classpathentry kind="lib" path="/Users/ajoshi007c/Documents/Avinash/Selenium/selenium-server-3.7.0/libs/bundle-jars.jar"/>
 	<classpathentry kind="lib" path="/Users/ajoshi007c/Documents/Avinash/Selenium/selenium-server-3.7.0/libs/byte-buddy-1.7.5.jar"/>
 	<classpathentry kind="lib" path="/Users/ajoshi007c/Documents/Avinash/Selenium/selenium-server-3.7.0/libs/commons-codec-1.10.jar"/>
@@ -42,6 +49,13 @@
 	<classpathentry kind="lib" path="/Users/ajoshi007c/Documents/Avinash/Selenium/selenium-server-3.7.0/libs/xalan-2.7.2.jar"/>
 	<classpathentry kind="lib" path="/Users/ajoshi007c/Documents/Avinash/Selenium/selenium-server-3.7.0/libs/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="/Users/ajoshi007c/Documents/Avinash/Selenium/selenium-server-3.7.0/libs/xml-apis-1.4.01.jar"/>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+=======
+	<classpathentry kind="lib" path="/Users/ajoshi007c/Documents/Avinash/Selenium/selenium-server-3.7.0/selenium-3.7.0-nodeps-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/ajoshi007c/Documents/Avinash/Selenium/selenium-server-3.7.0/selenium-3.7.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="/Users/ajoshi007c/Documents/Avinash/Selenium/selenium-server-standalone-3.7.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ajoshi007c/Documents/Avinash/Selenium/log4j.jar"/>
+>>>>>>> f6059f0c03164fecfba28509a415ede75269eb86
 	<classpathentry kind="output" path="bin"/>
 </classpath>
